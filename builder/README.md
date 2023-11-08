@@ -40,7 +40,7 @@ You can find a UML class diagram (uml.png) in the project directory. This diagra
 
 ![Alt text](uml.png)
 
-**Structure****
+**Structure**
 - src/: Contains the TypeScript source files.
 - dist/: Will contain the compiled JavaScript files.
 
